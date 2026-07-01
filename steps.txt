@@ -6,3 +6,7 @@ node intro.js
 git init
 git branch
 git status
+
+git branch
+git branch master
+git branchgit checkout master
