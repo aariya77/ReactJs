@@ -1,0 +1,8 @@
+npm install -y
+npm i express
+npm dev run
+node intro.js
+
+git init
+git branch
+git status
